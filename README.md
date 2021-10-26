@@ -11,7 +11,7 @@
   <hr>
   <div>
       <a href="#"><img src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
+      
   </div>
   <hr>
   <div>
@@ -20,20 +20,23 @@
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux" />  </a>
-     <a href="#"><img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=34495e" />  </a>
-    <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
-    <a href="#"><img src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=339933" />  </a>
-    <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/> </a>
-    <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
-     <a href="#"><img src="https://img.shields.io/badge/-Flask-F7F7F7?style=flat-square&logo=flask&logoColor=black" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=34495e" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flate-square&logo=vuetify&logoColor=AEDDFF"/> </a>
+      <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
+      <a href="*"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white"/> </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=339933" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/> </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Flask-F7F7F7?style=flat-square&logo=flask&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FAFAFA" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-F7F7F7?style=flat-square&logo=mongodb" />  </a>
-     <a href="#"><img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" /> </a>
       <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />  </a>
-    <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
